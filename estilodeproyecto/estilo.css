@@ -107,4 +107,22 @@ footer {
   margin-top: 10px;
 }
 
+.contact {
+  background-color:coral;
+  height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.container {
+  width: 1000px;
+  margin: 0 auto;
+  display: inherit;
+  justify-content: inherit;
+  align-items: inherit;
+  height: inherit;
+  flex-wrap: inherit;
+}
+
 /*CONTINUAR A DISPOSICIÓN*/
